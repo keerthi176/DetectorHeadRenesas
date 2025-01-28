@@ -1,0 +1,10 @@
+-cpu=S2
+-c
+-asmopt=-mirror_source=common
+-dev="C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF"
+-MAKEUD="D:\e2Repo\Detector\HardwareDebug\src"
+-I "D:/e2Repo/Detector/generate"
+-I "D:\e2Repo\Detector\src"
+-character_set=utf8
+-lang=c
+-g
