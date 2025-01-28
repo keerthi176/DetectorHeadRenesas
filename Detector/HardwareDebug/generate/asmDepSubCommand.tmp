@@ -1,0 +1,8 @@
+-asmopt=-MM
+-asmopt=-MP
+-cpu=S2
+-c
+-asmopt=-mirror_source=common
+-dev="C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF"
+-character_set=utf8
+-g

@@ -1,0 +1,6 @@
+-MAKEUD="D:\e2Repo\Detector\HardwareDebug\\Detector_c.ud" 
+-form=stype 
+-output="Detector.mot" 
+-byte_count=10 
+-nomessage 
+-nologo

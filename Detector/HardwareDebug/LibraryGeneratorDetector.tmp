@@ -1,0 +1,4 @@
+-MAKEUD_LBG="D:\e2Repo\Detector\HardwareDebug\Detector_lbg.ud" 
+-cpu=S2 
+-output=Detector.lib 
+-nologo

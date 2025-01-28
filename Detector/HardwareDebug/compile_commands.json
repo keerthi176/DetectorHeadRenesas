@@ -1,0 +1,122 @@
+[
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -character_set\u003dutf8 -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/generate/cstart.asm\"",
+    "file": "D:/e2Repo/Detector/generate/cstart.asm"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -character_set\u003dutf8 -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/generate/stkinit.asm\"",
+    "file": "D:/e2Repo/Detector/generate/stkinit.asm"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/PIR.c\"",
+    "file": "D:/e2Repo/Detector/src/PIR.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/delay.c\"",
+    "file": "D:/e2Repo/Detector/src/delay.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/heat.c\"",
+    "file": "D:/e2Repo/Detector/src/heat.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_adc.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_adc.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_adc_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_adc_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_cgc.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_cgc.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_cgc_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_cgc_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_intc.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_intc.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_intc_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_intc_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_it.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_it.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_it_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_it_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_port.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_port.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_port_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_port_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_serial.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_serial.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_serial_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_serial_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_timer.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_timer.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_timer_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_timer_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_wdt.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_wdt.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_cg_wdt_user.c\"",
+    "file": "D:/e2Repo/Detector/src/r_cg_wdt_user.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_main.c\"",
+    "file": "D:/e2Repo/Detector/src/r_main.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/r_systeminit.c\"",
+    "file": "D:/e2Repo/Detector/src/r_systeminit.c"
+  },
+  {
+    "directory": "D:/e2Repo/Detector",
+    "command": "\"C:/Program Files (x86)/Renesas/RL78/1_15_0/bin/ccrl.exe\" -cpu\u003dS2 -c -asmopt\u003d-mirror_source\u003dcommon -dev\u003d\"C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF\" -msg_lang\u003denglish -MAKEUD\u003d\"D:\\e2Repo\\Detector\\HardwareDebug\\\\Detector\" -I \"D:/e2Repo/Detector/generate\",\"D:\\e2Repo\\Detector\\src\" -character_set\u003dutf8 -lang\u003dc -g -o \"/Detector/HardwareDebug\" \"D:/e2Repo/Detector/src/smoke.c\"",
+    "file": "D:/e2Repo/Detector/src/smoke.c"
+  }
+]

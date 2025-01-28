@@ -1,0 +1,88 @@
+Renesas Optimizing Linker (W3.07.00 )             28-Jan-2025 19:08:17
+
+*** Options ***
+
+-subcommand=LinkerDetector.tmp
+-MAKEUD="D:\e2Repo\Detector\HardwareDebug/Detector_l.ud" 
+-device="C:/Users/User/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10268.DVF" 
+-list 
+-show=symbol 
+-nooptimize 
+-entry=_start 
+-security_id=00000000000000000000 
+-user_opt_byte=7FFFE3 
+-ocdbg=04 
+-input=".\generate\cstart.obj"
+-input=".\generate\stkinit.obj"
+-input=".\src\PIR.obj"
+-input=".\src\delay.obj"
+-input=".\src\heat.obj"
+-input=".\src\r_cg_adc.obj"
+-input=".\src\r_cg_adc_user.obj"
+-input=".\src\r_cg_cgc.obj"
+-input=".\src\r_cg_cgc_user.obj"
+-input=".\src\r_cg_intc.obj"
+-input=".\src\r_cg_intc_user.obj"
+-input=".\src\r_cg_it.obj"
+-input=".\src\r_cg_it_user.obj"
+-input=".\src\r_cg_port.obj"
+-input=".\src\r_cg_port_user.obj"
+-input=".\src\r_cg_serial.obj"
+-input=".\src\r_cg_serial_user.obj"
+-input=".\src\r_cg_timer.obj"
+-input=".\src\r_cg_timer_user.obj"
+-input=".\src\r_cg_wdt.obj"
+-input=".\src\r_main.obj"
+-input=".\src\r_systeminit.obj"
+-input=".\src\smoke.obj"
+-library=".\Detector.lib"
+-input=".\src\r_cg_wdt_user.obj"
+-start=.const,.text,.RLIB,.SLIB,.textf,.constf,.data,.sdata/0CE,.dataR,.bss/0FFC00,.sdataR,.sbss/0FFE20
+-output="Detector.abs" 
+-debug 
+-nocompress 
+-memory=high 
+-rom=.data=.dataR,.sdata=.sdataR 
+-nomessage 
+-nologo
+
+*** Error information ***
+
+W0561120:Section address is not assigned to ".init_array"
+E0562320:Section address overflowed out of range : ".const"
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+.vect
+                                  00000000  0000007f        80   0
+.option_byte
+                                  000000c0  000000c3         4   1
+.security_id
+                                  000000c4  000000cd         a   1
+.const
+                                  000000ce  000000e8        1b   2
+.text
+                                  000000e9  000002ab       1c3   1
+.RLIB
+                                  000002ac  000002ac         0   1
+.SLIB
+                                  000002ac  0000030d        62   1
+.textf
+                                  0000030e  000019ba      16ad   1
+.constf
+                                  000019bc  000019bc         0   2
+.data
+                                  000019bc  000019bc         0   2
+.sdata
+                                  000019bc  000019bc         0   2
+.dataR
+                                  000ffc00  000ffc00         0   2
+.bss
+                                  000ffc00  000ffce1        e2   2
+.sdataR
+                                  000ffe20  000ffe20         0   2
+.sbss
+                                  000ffe20  000ffe20         0   2
+.init_array
+                                  000ffe20  000ffe20         0   2
